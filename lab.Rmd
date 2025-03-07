@@ -1,0 +1,16 @@
+---
+title: "lab"
+output: html_document
+---
+
+```{r}
+library(swirl)
+```
+
+```{r}
+install_course_zip("Lab1.zip")
+```
+
+```{r}
+swirl()
+```
